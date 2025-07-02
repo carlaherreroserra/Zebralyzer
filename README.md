@@ -1,6 +1,8 @@
 # ZEBRALYZER
 
-![Zebralyzer logo](assets/logo_large.png)
+<p align="center">
+  <img src="assets/logo_large.png" alt="Zebralyzer logo" width="400"/>
+</p>
 
 **Zebralyzer** is a Python-based tool designed to analyze the behavior of zebrafish embryos.
 
@@ -11,7 +13,9 @@ The application allows for segmentation of fish in videos/images, detection of h
 ## USER INTERFACE
 Below is a preview of the Zebralyzer graphical interface:
 
-![Zebralyzer interface](interface.png)
+<p align="center">
+  <img src="interface.png" alt="Zebralyzer interface" width="500"/>
+</p>
 
 ---
 
