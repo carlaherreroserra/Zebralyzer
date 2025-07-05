@@ -13,7 +13,7 @@ from PIL import Image
 from PIL import ImageTk
 
 
-import pez
+import procesamiento
 import calculos
 
 
